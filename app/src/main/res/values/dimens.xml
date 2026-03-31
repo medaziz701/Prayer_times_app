@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="screen_padding">24dp</dimen>
+    <dimen name="card_radius">40dp</dimen>
+    <dimen name="pill_radius">22dp</dimen>
+    <!-- Dimensions pour les tickets (utiliser dp/sp pour la compatibilité multi-densités) -->
+    <dimen name="next_ticket_width">995.5dp</dimen>
+    <dimen name="next_ticket_height">121.9dp</dimen>
+    <dimen name="next_ticket_text_size">55.6sp</dimen>
+    <dimen name="stroke_thin">1dp</dimen>
+</resources>

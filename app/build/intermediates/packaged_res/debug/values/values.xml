@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#000000</color>
+    <color name="card_bg">#F6F6F6</color>
+    <color name="card_border">#E6E6E6</color>
+    <color name="gray_sub">#666666</color>
+    <color name="gray_text">#222222</color>
+    <color name="off_white">#F2F2F2</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="card_radius">40dp</dimen>
+    <dimen name="next_ticket_height">121.9dp</dimen>
+    <dimen name="next_ticket_text_size">55.6sp</dimen>
+    <dimen name="next_ticket_width">995.5dp</dimen>
+    <dimen name="pill_radius">22dp</dimen>
+    <dimen name="screen_padding">24dp</dimen>
+    <dimen name="stroke_thin">1dp</dimen>
+    <string name="activate">تفعيل</string>
+    <string name="adhan">وقتها :</string>
+    <string name="app_name">شاشات المساجد</string>
+    <string name="athkar_after_prayer_body">• أستغفر الله، أستغفر الله، أستغفر الله\n• اللهم أنت السلام ومنك السلام تباركت يا ذا الجلال والإكرام\n• لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير\n• لا حول ولا قوة إلا بالله، لا إله إلا الله ولا نعبد إلا إياه، له النعمة وله الفضل وله الثناء الحسن\n• لا إله إلا الله مخلصين له الدين ولو كره الكافرون\n• اللهم لا مانع لما أعطيت ولا معطي لما منعت ولا ينفع ذا الجد منك الجد\n\n• سبحان الله (33 مرة)\n• الحمد لله (33 مرة)\n• الله أكبر (33 مرة)\n\n• ويقول تمام المئة لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير\n\n• لا إله إلا الله وحده لا شريك له، له الملك وله الحمد يحيي ويميت وهو على كل شيء قدير (عشر مرات بعد صلاة الفجر والمغرب)\n\n• آية الكرسي (الله لا إله إلا هو الحي القيوم ...)\n• سورة الإخلاص (قل هو الله أحد ...)\n• سورة الفلق (قل أعوذ برب الفلق ...)\n• سورة الناس (قل أعوذ برب الناس ...)\n•(مرة واحدة بعد كل صلاة الا صلاتي الفجر والمغرب  ثلاث مرات)</string>
+    <string name="athkar_after_prayer_title">الأذكار بعد الصلاة المفروضة</string>
+    <string name="athkar_footer">لا تنسونا من صالح دعائكم</string>
+    <string name="background_mode">مظهر الخلفية</string>
+    <string name="bg_image">بخلفية</string>
+    <string name="bg_plain">سادة</string>
+    <string name="choose_city">اختيار المدينة</string>
+    <string name="city">المدينة</string>
+    <string name="date">التاريخ</string>
+    <string name="enter_activation">ادخل رمز التفعيل</string>
+    <string name="exit">خروج</string>
+    <string name="format_12">نظام 12 ساعة</string>
+    <string name="format_24">نظام 24 ساعة</string>
+    <string name="hadith_adhan_time">إن الصلاة كانت على المؤمنين كتابًا موقوتًا</string>
+    <string name="hadith_friday_pre_jumuah">يا أيها الذين آمنوا إذا نودي للصلاة من يوم الجمعة فاسعوا إلى ذكر الله وذروا البيع ذلكم خير لكم إن كنتم تعلمون</string>
+    <string name="hadith_iqama_time">وأقم الصلاة إن الصلاة تنهى عن الفحشاء والمنكر ولذكر الله أكبر</string>
+    <string name="hadith_reminder_title">وذكر فإن الذكرى تنفع المؤمنين</string>
+    <string name="hadith_title">حديث اليوم:</string>
+    <string name="hadith_update">تحديث الأحاديث</string>
+    <string name="hadith_update_30_min">كل 10 دقائق</string>
+    <string name="hadith_update_every_prayer">كل صلاة</string>
+    <string name="hadith_update_hourly">تخصيص</string>
+    <string name="hadith_update_manual">تخصيص</string>
+    <string name="iqama">الإقامة :</string>
+    <string name="iqama_after">الإقامة بعد:</string>
+    <string name="iqama_window_text">وقت الإقامة: «وأقم الصلاة إن الصلاة تنهى عن الفحشاء والمنكر ولذكر الله أكبر»</string>
+    <string name="next_prayer">الصلاة القادمة بعد:</string>
+    <string name="prayer">الصلاة :</string>
+    <string name="save_changes">حفظ التغييرات</string>
+    <string name="screen_flip">قلب الشاشة</string>
+    <string name="screen_lock">قفل الشاشة</string>
+    <string name="screen_template">قالب الشاشة</string>
+    <string name="search">بحث...</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="template_a">القالب A</string>
+    <string name="template_b">القالب B</string>
+    <string name="time">الساعة</string>
+    <string name="time_format">نظام الوقت</string>
+    <style name="Rounded60">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">40dp</item>
+    </style>
+    <style name="Theme.MosquePrayerTV" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:forceDarkAllowed" ns1:targetApi="q">false</item>
+
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/black</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        
+        <item name="android:fontFamily">@font/lyon_arabic_display_medium</item>
+    </style>
+</resources>

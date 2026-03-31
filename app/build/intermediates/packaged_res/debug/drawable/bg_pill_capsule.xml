@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/card_bg" />
+    <!-- Coins arrondis similaires à la carte de date, pas une pilule complète -->
+    <corners android:radius="20dp" />
+</shape>
