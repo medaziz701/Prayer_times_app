@@ -1,0 +1,4 @@
+com.mosque.prayer.test.app-androidTest-0 C:\Users\hp\Desktop\مشروع مسجدي\app\build\generated\res\resValues\androidTest\debug
+com.mosque.prayer.test.app-mergeDebugAndroidTestResources-1 C:\Users\hp\Desktop\مشروع مسجدي\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.mosque.prayer.test.app-mergeDebugAndroidTestResources-2 C:\Users\hp\Desktop\مشروع مسجدي\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.mosque.prayer.test.app-merged_res-3 C:\Users\hp\Desktop\مشروع مسجدي\app\build\intermediates\merged_res\debugAndroidTest

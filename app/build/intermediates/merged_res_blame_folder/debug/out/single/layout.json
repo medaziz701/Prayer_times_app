@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-mergeDebugResources-37:\\layout\\dialog_hadith_interval.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-main-40:\\layout\\dialog_hadith_interval.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-mergeDebugResources-37:\\layout\\item_prayer_row.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-main-40:\\layout\\item_prayer_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-mergeDebugResources-37:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-mergeDebugResources-37:\\layout\\dialog_city_picker.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-main-40:\\layout\\dialog_city_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-mergeDebugResources-37:\\layout\\dialog_delay_times.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-main-40:\\layout\\dialog_delay_times.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-mergeDebugResources-37:\\layout\\item_city.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-main-40:\\layout\\item_city.xml"
+    },
+    {
+        "merged": "com.mosque.prayer.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "com.mosque.prayer.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-mergeDebugResources-37:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-main-40:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-mergeDebugResources-37:\\layout\\dialog_activation.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-main-40:\\layout\\dialog_activation.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-mergeDebugResources-37:\\layout\\dialog_calc_method.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.mosque.prayer.app-main-40:\\layout\\dialog_calc_method.xml"
+    }
+]
