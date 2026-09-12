@@ -1,0 +1,9 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="off_white">#F2F2F2</color>
+    <color name="gray_text">#222222</color>
+    <color name="gray_sub">#666666</color>
+    <color name="card_bg">#F6F6F6</color>
+    <color name="card_border">#E6E6E6</color>
+</resources>

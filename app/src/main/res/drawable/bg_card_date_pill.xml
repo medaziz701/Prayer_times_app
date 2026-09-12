@@ -1,0 +1,6 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/white" />
+    <!-- Rectangle très arrondi : rayon fort mais encore inférieur à la moitié de la hauteur de la carte
+         pour garder des côtés droits visibles (style comme ta capture avec "Arrondir les angles"). -->
+    <corners android:radius="20dp" />
+</shape>
