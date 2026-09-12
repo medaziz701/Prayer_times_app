@@ -2,7 +2,7 @@
 
 > Application Android TV pour l'affichage des horaires de prière dans les mosquées, avec compte à rebours en temps réel, hadiths automatiques et support de l'orientation d'écran.
 
-![screenshot](./screenshots/preview.png)
+
 
 ## 🚀 Stack technique
 
